@@ -13,7 +13,7 @@
   - Bird collects trash.
   - Hero and bird overlap (with no impact on gameplay).
 # Project Status
-  Complete
+  Completed
 
 # To Access Game
 > Open this page at [https://rdumon5.github.io/a2-code-prototype/](https://rdumon5.github.io/a2-code-prototype/)
