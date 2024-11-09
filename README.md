@@ -27,7 +27,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/rdumon5/a2-code-prototype** and import
 
-## Edit this project ![Build status badge](https://github.com/rdumon5/a2-code-prototype/workflows/MakeCode/badge.svg)
+## Edit this project 
 
 To edit this repository in MakeCode.
 
